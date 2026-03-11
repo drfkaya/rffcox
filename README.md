@@ -1,2 +1,6 @@
 # rffcox
-Source code for 'Scalable Nonlinear Cox Modeling via RFF with Analytic Uncertainty'. Features the RFFCox algorithm core, applications, and setup guides.
+RFF-Cox: Scalable Kernel Cox Regression via Random Fourier Features
+
+This repository contains the Python implementation accompanying the paper:
+
+"Scalable Kernel Cox Regression via Random Fourier Features"
